@@ -1,6 +1,6 @@
 # ogbl-biokg
 
-This code includes implementation of TransE, DistMult, ComplEx, RotatE and **PairRE** with OGB evaluator. It is based on this [repository](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding).
+This code includes implementation of TransE, DistMult, ComplEx, PairRE, RotatE and **TripleRE** with OGB evaluator. It is based on this [repository](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding).
 
 ## Training & Evaluation
 
